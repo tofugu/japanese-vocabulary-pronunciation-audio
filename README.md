@@ -1,4 +1,4 @@
-# japanese-vocabulary-pronunciation-audio
+# Japanese vocabulary pronunciation audio brought to you by WaniKani and Tofugu
 This is mainly old vocabulary pronunciation audio from [WaniKani](https://www.wanikani.com). These are no longer available on WaniKani as they have been replaced with newer recordings.
 
 The audio is a mix of the following voices:
